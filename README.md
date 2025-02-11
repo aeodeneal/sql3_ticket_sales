@@ -8,7 +8,7 @@ _Please note that since the notebook has been downloaded from the DataCamp platf
 
 In this repository, besides this README document, there are many files. The original raw data files which contain data relating the the ticket sales for a range of events and event types over the course of a year (2008) are uploaded. 
 
-The notebook contains the code I wrote to preview the dataset, the report writing I did between queries, and the results of those queries. 
+The [notebook](https://github.com/aeodeneal/sql3_ticket_sales/blob/main/notebook.ipynb) contains the code I wrote to preview the dataset, the report writing I did between queries, and the results of those queries. 
 
 # Results 
 
